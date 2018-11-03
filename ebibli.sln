@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ebibli", "ebibli\ebibli.csproj", "{EEC390B3-036E-4399-A3AE-1892ABC238B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ebibli.Tests", "ebibli.Tests\ebibli.Tests.csproj", "{3E807957-14F0-441F-B966-D7B6C893E5E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEC390B3-036E-4399-A3AE-1892ABC238B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC390B3-036E-4399-A3AE-1892ABC238B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC390B3-036E-4399-A3AE-1892ABC238B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC390B3-036E-4399-A3AE-1892ABC238B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E807957-14F0-441F-B966-D7B6C893E5E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E807957-14F0-441F-B966-D7B6C893E5E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E807957-14F0-441F-B966-D7B6C893E5E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E807957-14F0-441F-B966-D7B6C893E5E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19670BA2-273D-4F87-B614-D2D5F53AC081}
+	EndGlobalSection
+EndGlobal
