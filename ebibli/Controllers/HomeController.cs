@@ -3,16 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using ebibli.Models;
 
 namespace ebibli.Controllers
-{
-    public class HomeController : Controller
+{ public class HomeController : Controller
     {
         public ActionResult Index()
         {
             return View();
         }
-
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
@@ -26,5 +25,6 @@ namespace ebibli.Controllers
 
             return View();
         }
+
     }
 }

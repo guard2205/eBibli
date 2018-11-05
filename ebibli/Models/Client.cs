@@ -11,7 +11,8 @@ namespace ebibli.Models
     [Table("Client")]
     public class Client
     {
-        public int Id { get; set; }
+        [Key]
+        public int IdClient { get; set; }
         [Required]
         public string Nom { get; set; }
         [Required]

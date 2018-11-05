@@ -11,8 +11,8 @@ namespace ebibli.Models
     [Table("Emprunt")]
     public class Emprunt
     {
-
-        public int Id { get; set; }
+        [Key]
+        public int IdEmprunt { get; set; }
         [Required]
         public int IdLivre { get; set; }
         [Required]

@@ -10,7 +10,8 @@ namespace ebibli.Models
         [Table("Auteur")]
         public class Auteur
         {
-            public int Id { get; set; }
+        [Key]
+            public int IdAuteur { get; set; }
             [Required]
             public string Nom { get; set; }
             [Required]

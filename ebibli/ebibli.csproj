@@ -153,6 +153,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\AffichageController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -165,6 +166,10 @@
     <Compile Include="Models\IDal.cs" />
     <Compile Include="Models\Livre.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewModels\Affichage\ViewModelAuteurs.cs" />
+    <Compile Include="ViewModels\Affichage\ViewModelAuteur.cs" />
+    <Compile Include="ViewModels\Affichage\ViewModelIndex.cs" />
+    <Compile Include="ViewModels\Affichage\ViewModelLivre.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap-theme.css" />
@@ -205,6 +210,10 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Affichage\Auteur.cshtml" />
+    <Content Include="Views\Affichage\Auteurs.cshtml" />
+    <Content Include="Views\Affichage\Index.cshtml" />
+    <Content Include="Views\Affichage\Livre.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

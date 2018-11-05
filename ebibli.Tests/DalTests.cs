@@ -77,20 +77,12 @@ namespace Travail3.Tests
 
         [TestMethod]
         public void AjouterClient_NouveauClientEtRecuperation_LeClientEstBienRecupere() {
-            dal.AjouterClient("Nissan", "Nissan@gmail.fr", "azerty");
+            dal.AjouterClient("Nissan", "Nissan@gmail.com", "azerty");
             Client client = dal.ObtenirClient(1);
 
             Assert.IsNotNull(client);
             Assert.AreEqual("Nissan", client.Nom);
-            Assert.AreEqual("Nissan@gmail.com", client.Nom);
-
-            client = dal.ObtenirClient("1");
-
-            Assert.IsNotNull(client);
-            Assert.AreEqual("Nissan", client.Nom);
-            Assert.AreEqual("Nissan@gmail.com", client.Nom);
-
-
+            Assert.AreEqual("Nissan@gmail.com", client.Email);
         }
 
         [TestMethod]

@@ -100,3 +100,205 @@ C:\Users\guard\source\repos\ebibli\ebibli\bin\fr\System.Web.WebPages.Razor.resou
 C:\Users\guard\source\repos\ebibli\ebibli\obj\Debug\ebibli.csproj.CopyComplete
 C:\Users\guard\source\repos\ebibli\ebibli\obj\Debug\ebibli.dll
 C:\Users\guard\source\repos\ebibli\ebibli\obj\Debug\ebibli.pdb
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\ApplicationInsights.config
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\ebibli.dll.config
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\ebibli.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\ebibli.pdb
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\csc.exe
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\csc.exe.config
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\csc.rsp
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\csi.exe
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\csi.exe.config
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\csi.rsp
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\Microsoft.Managed.Core.targets
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.AppContext.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.Collections.Immutable.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.Console.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.IO.Compression.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.IO.FileSystem.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.IO.Pipes.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.Reflection.Metadata.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.Security.AccessControl.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.Security.Claims.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.Security.Principal.Windows.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.ValueTuple.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.Xml.XmlDocument.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.Xml.XPath.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\vbc.exe
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\vbc.exe.config
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\vbc.rsp
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\VBCSCompiler.exe
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\roslyn\VBCSCompiler.exe.config
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\Antlr3.Runtime.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\EntityFramework.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\EntityFramework.SqlServer.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\Microsoft.AI.Agent.Intercept.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\Microsoft.AI.DependencyCollector.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\Microsoft.AI.Web.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\Microsoft.AI.WindowsServer.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\Microsoft.ApplicationInsights.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\Microsoft.Web.Infrastructure.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\Newtonsoft.Json.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\System.Diagnostics.DiagnosticSource.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\System.Web.Helpers.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\System.Web.Mvc.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\System.Web.Optimization.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\System.Web.Razor.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\System.Web.WebPages.Deployment.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\System.Web.WebPages.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\System.Web.WebPages.Razor.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\WebGrease.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\EntityFramework.xml
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\EntityFramework.SqlServer.xml
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\System.Web.Helpers.xml
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\System.Web.Mvc.xml
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\System.Web.Optimization.xml
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\System.Web.Razor.xml
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\System.Web.WebPages.xml
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\System.Web.WebPages.Deployment.xml
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\System.Web.WebPages.Razor.xml
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\Newtonsoft.Json.xml
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\Antlr3.Runtime.pdb
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\System.Diagnostics.DiagnosticSource.xml
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\Microsoft.AI.DependencyCollector.xml
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\Microsoft.AI.WindowsServer.xml
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\Microsoft.AI.Web.xml
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\fr\System.Web.Helpers.resources.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\fr\System.Web.Mvc.resources.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\fr\System.Web.Optimization.resources.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\fr\System.Web.Razor.resources.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\fr\System.Web.WebPages.resources.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\obj\Debug\ebibli.csproj.CoreCompileInputs.cache
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\obj\Debug\ebibli.dll
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\obj\Debug\ebibli.pdb
+D:\isetcours\3e\QI\Comhaire - Projet\CodeModifié\eBibli-master\ebibli\obj\Debug\ebibli.csprojResolveAssemblyReference.cache
+G:\eBibli-master\ebibli\bin\ApplicationInsights.config
+G:\eBibli-master\ebibli\bin\ebibli.dll.config
+G:\eBibli-master\ebibli\bin\ebibli.dll
+G:\eBibli-master\ebibli\bin\ebibli.pdb
+G:\eBibli-master\ebibli\bin\roslyn\csc.exe
+G:\eBibli-master\ebibli\bin\roslyn\csc.exe.config
+G:\eBibli-master\ebibli\bin\roslyn\csc.rsp
+G:\eBibli-master\ebibli\bin\roslyn\csi.exe
+G:\eBibli-master\ebibli\bin\roslyn\csi.exe.config
+G:\eBibli-master\ebibli\bin\roslyn\csi.rsp
+G:\eBibli-master\ebibli\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\eBibli-master\ebibli\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\eBibli-master\ebibli\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\eBibli-master\ebibli\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\eBibli-master\ebibli\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\eBibli-master\ebibli\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\eBibli-master\ebibli\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\eBibli-master\ebibli\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\eBibli-master\ebibli\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\eBibli-master\ebibli\bin\roslyn\Microsoft.Managed.Core.targets
+G:\eBibli-master\ebibli\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\eBibli-master\ebibli\bin\roslyn\System.AppContext.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.Collections.Immutable.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.Console.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.IO.Compression.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.IO.FileSystem.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.IO.Pipes.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.Reflection.Metadata.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.Security.AccessControl.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.Security.Claims.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.Security.Principal.Windows.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.ValueTuple.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.Xml.XmlDocument.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.Xml.XPath.dll
+G:\eBibli-master\ebibli\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\eBibli-master\ebibli\bin\roslyn\vbc.exe
+G:\eBibli-master\ebibli\bin\roslyn\vbc.exe.config
+G:\eBibli-master\ebibli\bin\roslyn\vbc.rsp
+G:\eBibli-master\ebibli\bin\roslyn\VBCSCompiler.exe
+G:\eBibli-master\ebibli\bin\roslyn\VBCSCompiler.exe.config
+G:\eBibli-master\ebibli\bin\Antlr3.Runtime.dll
+G:\eBibli-master\ebibli\bin\EntityFramework.dll
+G:\eBibli-master\ebibli\bin\EntityFramework.SqlServer.dll
+G:\eBibli-master\ebibli\bin\Microsoft.AI.Agent.Intercept.dll
+G:\eBibli-master\ebibli\bin\Microsoft.AI.DependencyCollector.dll
+G:\eBibli-master\ebibli\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\eBibli-master\ebibli\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\eBibli-master\ebibli\bin\Microsoft.AI.Web.dll
+G:\eBibli-master\ebibli\bin\Microsoft.AI.WindowsServer.dll
+G:\eBibli-master\ebibli\bin\Microsoft.ApplicationInsights.dll
+G:\eBibli-master\ebibli\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\eBibli-master\ebibli\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\eBibli-master\ebibli\bin\Microsoft.Web.Infrastructure.dll
+G:\eBibli-master\ebibli\bin\Newtonsoft.Json.dll
+G:\eBibli-master\ebibli\bin\System.Diagnostics.DiagnosticSource.dll
+G:\eBibli-master\ebibli\bin\System.Web.Helpers.dll
+G:\eBibli-master\ebibli\bin\System.Web.Mvc.dll
+G:\eBibli-master\ebibli\bin\System.Web.Optimization.dll
+G:\eBibli-master\ebibli\bin\System.Web.Razor.dll
+G:\eBibli-master\ebibli\bin\System.Web.WebPages.Deployment.dll
+G:\eBibli-master\ebibli\bin\System.Web.WebPages.dll
+G:\eBibli-master\ebibli\bin\System.Web.WebPages.Razor.dll
+G:\eBibli-master\ebibli\bin\WebGrease.dll
+G:\eBibli-master\ebibli\bin\EntityFramework.xml
+G:\eBibli-master\ebibli\bin\EntityFramework.SqlServer.xml
+G:\eBibli-master\ebibli\bin\System.Web.Helpers.xml
+G:\eBibli-master\ebibli\bin\System.Web.Mvc.xml
+G:\eBibli-master\ebibli\bin\System.Web.Optimization.xml
+G:\eBibli-master\ebibli\bin\System.Web.Razor.xml
+G:\eBibli-master\ebibli\bin\System.Web.WebPages.xml
+G:\eBibli-master\ebibli\bin\System.Web.WebPages.Deployment.xml
+G:\eBibli-master\ebibli\bin\System.Web.WebPages.Razor.xml
+G:\eBibli-master\ebibli\bin\Newtonsoft.Json.xml
+G:\eBibli-master\ebibli\bin\Antlr3.Runtime.pdb
+G:\eBibli-master\ebibli\bin\System.Diagnostics.DiagnosticSource.xml
+G:\eBibli-master\ebibli\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\eBibli-master\ebibli\bin\Microsoft.AI.DependencyCollector.xml
+G:\eBibli-master\ebibli\bin\Microsoft.AI.WindowsServer.xml
+G:\eBibli-master\ebibli\bin\Microsoft.AI.Web.xml
+G:\eBibli-master\ebibli\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\eBibli-master\ebibli\bin\fr\System.Web.Helpers.resources.dll
+G:\eBibli-master\ebibli\bin\fr\System.Web.Mvc.resources.dll
+G:\eBibli-master\ebibli\bin\fr\System.Web.Optimization.resources.dll
+G:\eBibli-master\ebibli\bin\fr\System.Web.Razor.resources.dll
+G:\eBibli-master\ebibli\bin\fr\System.Web.WebPages.resources.dll
+G:\eBibli-master\ebibli\bin\fr\System.Web.WebPages.Deployment.resources.dll
+G:\eBibli-master\ebibli\bin\fr\System.Web.WebPages.Razor.resources.dll
+G:\eBibli-master\ebibli\obj\Debug\ebibli.csproj.CoreCompileInputs.cache
+G:\eBibli-master\ebibli\obj\Debug\ebibli.csproj.CopyComplete
+G:\eBibli-master\ebibli\obj\Debug\ebibli.dll
+G:\eBibli-master\ebibli\obj\Debug\ebibli.pdb
